@@ -1,0 +1,4 @@
+Da ich bisher nur sehr wenig wenig mit HTML und PHP gearbeitet habe, kann ich nicht so gut einschätzen, wie realistisch bzw umfangreich das Projekt werden soll.
+ich denke aber an ein Projekt, dass sich z.B für Firmen eignet. Php verknüft mit der Datenbank, die 
+: Login, Kontaktformular mit Captcha,Kundendaten erfassen und ausgeben, Kontaktdaten, evetuell ein Gästebuch... beinhaltet.
+Ich bin aber auch sher interesiert mit Kominitonnen ein kleines Browsergame oder der gleichen zu machen.
