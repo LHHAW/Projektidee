@@ -90,3 +90,22 @@ Es ist dabei sehr wahrscheinlich, dass Sie (vielleicht auch erst später währen
 
 Viele Grüße,
 Markus Alpers
+
+===================================
+=== Feedback Alpers, 2016-05-04 ===
+===================================
+
+Leider haben Sie keine Beschreibung zum Projekt erstellt. Das müssen Sie aber als erstes tun, denn auf dieser Beschreibung wird das Projekt basieren.
+
+Hintergrund: Sie sollen eine sinnvolle Umsetzung des Brettspiels als webbasierte interaktive Anwendung erstellen, keine 1:1-Umsetzung des Brettspiels als Computerspiel.
+
+Wertung 2: Projektbeschreibung: gesamt: -5 / 10
+- Pro Interaktionsmöglichkeit: 0
+- Knappe aber klare Beschreibung: 0 
+- Werbeslogans u.ä.: 0 
+- Designaspekte: 0 
+- Voraussetzung bekannten Wissens: -5
+
+=====================
+=== Feedback Ende ===
+=====================
